@@ -34,7 +34,7 @@ messages ont le format suivant :
 
 ### Exemple de Résultat format images:
 
-### you'll find the project in the Streams folder
+### you'll find the project in the "Streams" folder
 
 <img src="imgs/1cmd.png">
 <img src="imgs/1intillij.png">
