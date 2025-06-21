@@ -34,6 +34,8 @@ messages ont le format suivant :
 
 ### Exemple de Résultat format images:
 
+### you'll find the project in the Streams folder
+
 <img src="imgs/1cmd.png">
 <img src="imgs/1intillij.png">
 
@@ -56,6 +58,9 @@ Dans cet exercice, vous allez développer une solution complète basée sur Kafk
 * Implémentez une API REST avec un endpoint (GET /clicks/count) qui retourne le nombre total de clics en temps réel.
 
 ### Exemple de Résultat format images:
+
+### you'll find the project in these folders (click-consumer, click-processor, click-producer)
+
 <img src="imgs/click5.png">
 <img src="imgs/click1.png">
 <img src="imgs/click2.png">
